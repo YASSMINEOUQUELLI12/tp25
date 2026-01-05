@@ -32,6 +32,8 @@ En mode “classique”, chaque service est démarré à la main, avec des ports
 Dans ce lab, **un seul `docker-compose up`** permet de lancer toute l’architecture.
 
 ---
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/a07f11b3-0229-46c2-a53c-5bdd10a61797" />
+
 
 ## ✅ Prérequis
 
@@ -50,5 +52,4 @@ mvn -version      # optionnel
 
 
 
-<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/a07f11b3-0229-46c2-a53c-5bdd10a61797" />
 
